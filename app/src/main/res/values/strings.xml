@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="ET_enterValue">Введите оценку от 1 до 5.</string>
+    <string name="context_menu_color">Цветовое качество</string>
+    <string name="context_menu_exit">Выход из приложения</string>
+    <string name="BTN_random">Случайное число</string>
+    <string name="TV_result_hint">Здесь будет результат\n нажатия на кнопку</string>
+</resources>
